@@ -18,7 +18,6 @@
 
   <strong>Technologies</strong> :
 
-   These are the functions as follows :
 <hr>
    1. LARAVEL Framework
    
